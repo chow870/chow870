@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aditya Choudhary 
 - 👀 I’m interested in Software Development,full-stack Web Development
+- ❤️ I love to contribute to open-source projects, collaborate and discuss new ideas 
 - 🌱 I’m currently learning Next.js,DSA,recoil and Tailwind CSS
 
 <!---
